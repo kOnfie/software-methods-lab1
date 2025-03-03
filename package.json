@@ -1,0 +1,20 @@
+{
+  "name": "lab1",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/kOnfie/software-methods-lab1#readme",
+  "bugs": {
+    "url": "https://github.com/kOnfie/software-methods-lab1/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kOnfie/software-methods-lab1.git"
+  },
+  "license": "ISC",
+  "author": "Denys Matvieiev",
+  "type": "commonjs",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
